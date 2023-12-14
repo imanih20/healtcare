@@ -1,0 +1,12 @@
+package com.example.healthcare.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val PrimaryLight = Color(0x44,0x3e,0xf4)
+val PrimaryDark = Color(0xc1,0xc1,0xff)
+
+val SecondaryLight = Color(0x5d,0x5c,0x72)
+val SecondaryDark = Color(0xc6,0xc4,0xdd)
+
+val TertiaryLight = Color(0x79,0x53,0x69)
+val TertiaryDark = Color(0xe9,0xb9,0xd3)
